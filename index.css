@@ -1,5 +1,9 @@
+body{
+	background: rgba(0,0,0,.8);
+}
 .container-fluid{
 	margin: 10% auto;
+	color: #fff;
 }
 .container{
 	width: 800px;
@@ -11,9 +15,10 @@
 	pointer-events: disabled;
 }
 a{
-	color: #333;
+	color: #999;
+	font-weight: 600;
 }
 a:hover{
-	color: crimson;
+	color: #fff;
 	text-decoration: none;
 }
