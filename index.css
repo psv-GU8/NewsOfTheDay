@@ -1,0 +1,19 @@
+.container-fluid{
+	margin: 10% auto;
+}
+.container{
+	width: 800px;
+	height: auto;
+	text-align: center;
+	display: block;
+}
+.tweet{
+	pointer-events: disabled;
+}
+a{
+	color: #333;
+}
+a:hover{
+	color: crimson;
+	text-decoration: none;
+}
